@@ -34,10 +34,10 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          plugin_wakatime: yes
-          wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_sections: time, languages, editors
-          plugin_wakatime_limit: 5
+          #plugin_wakatime: yes
+          #wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          #plugin_wakatime_sections: time, languages, editors
+          #plugin_wakatime_limit: 5
 
       - name: Commit metrics.svg if it exists
         run: |
