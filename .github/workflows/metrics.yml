@@ -39,10 +39,15 @@ jobs:
           plugin_wakatime_sections: time, languages, editors
           plugin_wakatime_limit: 5
 
-      - name: Commit metrics.svg
+      - name: Commit metrics.svg if it exists
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add metrics.svg
-          git commit -m "📊 update metrics"
-          git push
+          if [ -f metrics.svg ]; then
+            git add metrics.svg
+            git commit -m "📊 update metrics"
+            git push
+          else
+            echo "⚠️ metrics.svg no fue generado. Omitiendo commit."
+          fi
+
