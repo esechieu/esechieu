@@ -83,6 +83,12 @@ Aunque estoy comenzando, quiero que cada línea de código que escriba sirva par
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/esechieu/esechieu/main/metrics.svg" alt="Métricas de Ezequiel" />
+</p>
+
+___
+
+<p align="center">
   <a href="https://www.linkedin.com/in/eleal14"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ezequiel.leal7@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/esechieu"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
