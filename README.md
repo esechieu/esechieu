@@ -34,10 +34,12 @@ Mi enfoque es concreto: **Python + accesibilidad + IA + ciencia de datos**.
 
 ### 📘 Actualmente aprendiendo
 
-- → Lógica y fundamentos de Python · Git · GitHub · buenas prácticas de código útil, documentado y con impacto
-- → Ciencia datos con manipulacion de datos para mejorar la calidad de vida
-- → Automatización de tareas
-- → Introducción a IA y modelos inclusivos
+```text
+→ Lógica y fundamentos de Python · Git · GitHub · buenas prácticas de código útil, documentado y con impacto
+→ Ciencia datos con manipulacion de datos para mejorar la calidad de vida
+→ Automatización de tareas
+→ Introducción a IA y modelos inclusivos
+```
 
 ---
 
